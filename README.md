@@ -15,7 +15,12 @@ Chatbot is created to mine the customer data, and to save time on the customer s
 
 Primary Azure Technology*:
 Azure Bot Service, QnA Maker, Static Web Apps
+1- QnA Maker
 ![image](https://user-images.githubusercontent.com/69046074/154835605-a1bde928-09fa-43d7-8d35-791c9fe4fffe.png)
+2- Azure Bot service
+![image](https://user-images.githubusercontent.com/69046074/154835639-470689ac-a225-4ab4-a257-f12eb3125b87.png)
+3- Azure Static Web Apps
+![image](https://user-images.githubusercontent.com/69046074/154835656-743befb1-0d8d-491a-8a67-df59682826c6.png)
 
 
 Other Azure Technologies:
