@@ -15,6 +15,8 @@ Chatbot is created to mine the customer data, and to save time on the customer s
 
 Primary Azure Technology*:
 Azure Bot Service, QnA Maker, Static Web Apps
+![image](https://user-images.githubusercontent.com/69046074/154835605-a1bde928-09fa-43d7-8d35-791c9fe4fffe.png)
+
 
 Other Azure Technologies:
 Cognitive Services to generate insights & decision making. It empowers the bot to see, listen, analyze and interact in more human and improved ways. These services simplify a variety of AI-based tasks, allowing bot to have productive functionalities embedded into them.
